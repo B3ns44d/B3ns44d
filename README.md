@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **Abdessamad Bensaad**, 17 years old 👨🏽‍💼 with a lot of experience working as a **full stack developer** 👨🏽‍💻 Capable of working with a variety of technology and software solutions. 🚀 from Tunisia.  The valuable team member who has experience diagnosing problems and developing solutions. 👨🏽‍💻 Extensive expertise in web development and working with different programming languages👨🏽‍💼. 
+Hi there, I'm **Abdessamad Bensaad**, 17 years old 👨🏽‍💼 with a lot of experience working as a **full stack developer** 👨🏽‍💻 Capable of working with a variety of technology and software solutions. 🚀. The valuable team member who has experience diagnosing problems and developing solutions. 👨🏽‍💻 Extensive expertise in web development and working with different programming languages👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -21,9 +21,9 @@ Hi there, I'm **Abdessamad Bensaad**, 17 years old 👨🏽‍💼 with a lot of
 
 - 👨🏽‍💻 I’m currently an Computer Science student at Youcode [Youcode](https://www.youcodema/) in the web development field;
 - 🌱 I’m currently learning everything 🤣; 
-- 🤔 My interests are with Analyze data , data visualizations, Game Development, etc..;
+- 🤔 My interests are with AI, Game Development, etc..;
 - 💬 if you have any question feel free to ask;
-- ⚡ Fun fact: I love to draw and play guitar / drums;
+- ⚡ Fun fact: I love to draw and play games;
 
 
 **Languages and Tools:**  
