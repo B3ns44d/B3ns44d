@@ -1,12 +1,12 @@
 ### Hey 👋, I'm Abdessamad
 
-<a href="https://www.linkedin.com/in/bensaad-abdessamad/">
+<a href="https://www.linkedin.com/in/B3ns44d/">
   <img align="left" alt="Abdessamad LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/b3ns44d/">
   <img align="left" alt="Abdessamad Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.twitter.com/coderbensaad">
+<a href="https://www.twitter.com/B3ns44d">
   <img align="left" alt="Abdessamad Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
