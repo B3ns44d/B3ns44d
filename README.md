@@ -15,8 +15,8 @@
 
 Hi there, I'm **Abdessamad Bensaad**, 17 years old 👨🏽‍💼 with a lot of experience working as a **Web Developer** 👨🏽‍💻 Capable of working with a variety of technology and software solutions. 🚀. The valuable team member who has experience diagnosing problems and developing solutions. 👨🏽‍💻 Extensive expertise in web development and working with different programming languages👨🏽‍💼. 
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+  <img align="right" style="padding: 10px;" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
+<br />
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an Computer Science student at [Youcode](https://www.youcodema/) in the web development field;
