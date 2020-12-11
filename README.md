@@ -26,13 +26,42 @@ Hi there, I'm **Abdessamad Bensaad**, 17 years old 👨🏽‍💼 with a lot of
 - ⚡ Fun fact: I love to draw and play games;
 
 
-**Languages and Tools:** 
+## 🧰 Languages and Tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3ns44d&layout=compact&theme=vue-dark)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>	
 
-![Abdessamad github stats](https://github-readme-stats.vercel.app/api?username=B3ns44d&show_icons=true&hide_border=true&theme=vue-dark)
+
+## :trophy: My Github Stats:
+
+<div>
+  <a
+    href="https://github-readme-stats.vercel.app/api?username=B3ns44d&show_icons=true&hide_border=true&theme=vue-dark"
+  >
+    <img
+      align="left"
+      src="https://github-readme-stats.vercel.app/api?username=B3ns44d&show_icons=true&hide_border=true&theme=vue-dark"
+    />
+  </a>
+  <a
+    href="https://github-readme-stats.vercel.app/api/top-langs/?username=b3ns44d&layout=compact&theme=vue-dark"
+  >
+    <img
+      align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3ns44d&layout=compact&theme=vue-dark"
+    />
+  </a>
+</div>
+
 
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=B3ns44d) -->
-
-
-⭐️ From [B3ns44d](https://github.com/B3ns44d)
