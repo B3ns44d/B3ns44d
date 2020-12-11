@@ -54,11 +54,11 @@ Hi there, I'm **Abdessamad Bensaad**, 17 years old 👨🏽‍💼 with a lot of
     />
   </a>
   <a
-    href="https://github-readme-stats.vercel.app/api/top-langs/?username=b3ns44d&layout=compact&theme=vue-dark"
+    href="https://github-readme-stats.vercel.app/api/top-langs/?username=b3ns44d&theme=vue-dark"
   >
     <img
       align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3ns44d&layout=compact&theme=vue-dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3ns44d&theme=vue-dark"
     />
   </a>
 </div>
