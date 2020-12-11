@@ -47,4 +47,7 @@ Hi there, I'm **Abdessamad Bensaad**, 17 years old 👨🏽‍💼 with a lot of
 # Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3ns44d&layout=compact&theme=vue-dark)
 
+<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=B3ns44d) -->
+
+
 ⭐️ From [B3ns44d](https://github.com/B3ns44d)
