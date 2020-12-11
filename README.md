@@ -44,4 +44,7 @@ Hi there, I'm **Abdessamad Bensaad**, 17 years old 👨🏽‍💼 with a lot of
 
 ![Abdessamad github stats](https://github-readme-stats.vercel.app/api?username=B3ns44d&show_icons=true&hide_border=true&theme=vue-dark)
 
+# Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3ns44d&layout=compact&theme=vue-dark)
+
 ⭐️ From [B3ns44d](https://github.com/B3ns44d)
