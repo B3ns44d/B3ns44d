@@ -81,7 +81,10 @@
 <div style="display: flex;justify-content: space-around;">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  
+  <img src="https://iruntheinternet.com/lulzdump/images/gifs/walking-dead-what-is-love-car-governor-SNL-13651814991.gif" alt="TWD" style="float: right;" width="500px">
 </div>
+
 
 ### Hosting/SaaS
 <div style="display: flex;justify-content: space-around;">
