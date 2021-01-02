@@ -84,7 +84,7 @@
  
 </div>
  
-  <img src="https://iruntheinternet.com/lulzdump/images/gifs/walking-dead-what-is-love-car-governor-SNL-13651814991.gif" alt="TWD" style="float: right;" width="300px">
+  <img src="https://iruntheinternet.com/lulzdump/images/gifs/walking-dead-what-is-love-car-governor-SNL-13651814991.gif" alt="TWD" style="position: absolute; float: right; top:0px;" width="300px">
 
 
 ### Hosting/SaaS
