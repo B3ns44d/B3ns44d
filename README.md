@@ -27,6 +27,7 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B3ns44d&theme=vue-dark)
+  <img align="right" style="padding: 10px;" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
 
 <br><br>
