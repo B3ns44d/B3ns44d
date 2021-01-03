@@ -2,9 +2,10 @@
   <img alt="image cover" src="https://thumbs.gfycat.com/HandsomeEasygoingAlbatross-small.gif" />
 </p>
 
-# Abdessamad Bensaad <img src="https://i.imgur.com/99xqXTF.gif" width="30px">
 
-
+<h1 align="center">
+Abdessamad Bensaad <img src="https://i.imgur.com/99xqXTF.gif" width="30px">
+</h1>
 
 ### <img src="https://i.imgur.com/qj6uRrW.gif" width="29px"> Hello world! <img src="https://i.pinimg.com/originals/f7/c7/86/f7c7868c2f8c087dbba08c348df5272e.gif" width="24px">
 
