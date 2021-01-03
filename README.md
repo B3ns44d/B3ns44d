@@ -31,6 +31,7 @@ Abdessamad Bensaad <img src="https://i.imgur.com/99xqXTF.gif" width="30px">
 
 <details>
   <summary>📊 GitHub Profile Stats</summary>
+  <br>
   <img alt="B3ns44d's Github Stats" src="https://github-readme-stats.vercel.app/api?username=B3ns44d&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </details>
 <details> 
