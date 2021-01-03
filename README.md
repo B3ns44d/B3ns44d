@@ -31,29 +31,25 @@ Abdessamad Bensaad <img src="https://i.imgur.com/99xqXTF.gif" width="30px">
 
 <details>
   <summary>📊 GitHub Profile Stats</summary>
-  <br/>
   <img alt="B3ns44d's Github Stats" src="https://github-readme-stats.vercel.app/api?username=B3ns44d&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </details>
-
-<br>
-
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
   <img alt="B3ns44d's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3ns44d&theme=tokyonight" />
-  <br/>
 </details>
-
-
 <details> 
   <summary>⚡ Contribution Streak</summary>
   <br/>
   <img alt="B3ns44d's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=b3ns44d&theme=tokyonight" />
   <br/>
 </details>
+
 <br>
 <img src="https://i.pinimg.com/originals/cf/70/7a/cf707a7c672c59f85f251f42d12497dd.gif" alt="Look at the flowers" style="float: left;" width="800px">
 <br>
+
+## 👨‍💻 Languages and Tools:
 
 ### Programming Languages
 <div style="display: flex;justify-content: space-around;">
