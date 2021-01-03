@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="image cover" src="https://thumbs.gfycat.com/HandsomeEasygoingAlbatross-small.gif" />
+  <img alt="image cover" src="https://art.ngfiles.com/images/939000/939385_stonestoryrpg_hrimnir-awakens.gif?f1561231733" />
 </p>
 
 
