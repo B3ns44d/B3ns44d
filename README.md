@@ -27,13 +27,15 @@ Abdessamad Bensaad <img src="https://i.imgur.com/99xqXTF.gif" width="30px">
 <br>
 <br>
 
-![B3ns44d's github stats](https://github-readme-stats.vercel.app/api?username=B3ns44d&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)
+![B3ns44d's github stats](https://github-readme-stats.vercel.app/api?username=B3ns44d&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B3ns44d&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B3ns44d&theme=tokyonight)
   <img align="right" style="padding: 10px;" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
+
+![B3ns44d GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=b3ns44d&theme=tokyonight)
 
 <br><br>
 <img src="https://i.pinimg.com/originals/cf/70/7a/cf707a7c672c59f85f251f42d12497dd.gif" alt="Look at the flowers" style="float: left;" width="800px">
