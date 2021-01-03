@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="image cover" src="https://thumbs.gfycat.com/HandsomeEasygoingAlbatross-small.gif" />
+</p>
+
 # Abdessamad Bensaad <img src="https://i.imgur.com/99xqXTF.gif" width="30px">
 
 
