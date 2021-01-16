@@ -18,7 +18,7 @@ Abdessamad Bensaad <img src="https://i.imgur.com/99xqXTF.gif" width="30px">
 <br>
 
 - <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/wave.gif" width="20vw" /> I’m _currently_ **building** my new **PROJECT** 👨‍💻
-- <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Web Development** and **3D Design** 💪.
+- <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** at **Web Development** and **3D Design** 💪.
 - <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/headbang.gif" width="20vw" /> I’m _looking to collaborate_ on **ReactJS, Python Project 🐍**.
 - <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/hmm.gif" width="20vw" /> Currently Learning **MERN STACK**💪 and Developing myself in the **German** language👨‍💻.
 - <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/hmm.gif" width="20vw" /> I Love **Game Development** and **3D graphics** 🌐
