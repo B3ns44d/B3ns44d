@@ -1,31 +1,6 @@
-<p align="center">
-  <img alt="image cover" src="https://art.ngfiles.com/images/939000/939385_stonestoryrpg_hrimnir-awakens.gif?f1561231733" />
-</p>
+### Hi, I'm Abdessamad.
 
-
-<h1 align="center">
-Abdessamad Bensaad <img src="https://i.imgur.com/99xqXTF.gif" width="30px">
-</h1>
-
-### <img src="https://i.imgur.com/qj6uRrW.gif" width="29px"> Hello world! <img src="https://i.pinimg.com/originals/f7/c7/86/f7c7868c2f8c087dbba08c348df5272e.gif" width="24px">
-
-<p>
-  <em>
-    Hi there, I'm <b>Abdessamad Bensaad</b>, a Computer science student with a lot of experience in the web development industry <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Earth.gif" width="20vw" /> Capable of working with a variety of technology and software solutions. 🚀. The valuable team member who has experience diagnosing problems and developing solutions. <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Medal.gif" width="20vw" /> Extensive expertise in web development and working with different programming languages👨🏽‍💼.
-  </em>  
-</p>
-
-<br>
-
-- <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/wave.gif" width="20vw" /> I’m _currently_ **building** my new **PROJECT** 👨‍💻
-- <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** at **Web Development** and **3D Design** 💪.
-- <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/headbang.gif" width="20vw" /> I’m _looking to collaborate_ on **ReactJS, Python Project 🐍**.
-- <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/hmm.gif" width="20vw" /> Currently Learning **MERN STACK**💪 and Developing myself in the **German** language👨‍💻.
-- <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/hmm.gif" width="20vw" /> I Love **Game Development** and **3D graphics** 🌐
-- <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/happy.gif" width="20vw" /> _Ask me_ about **anything you want**  <img src="https://media0.giphy.com/media/jOzj25GauPTz2URpfV/200.gif" width="20px">
-- <img alt="GIF" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
-<br>
-<br>
+I am a CS student based in Morocco. Used to develop modern web applications under Agile and Scrum methodologies with Git workflow. I enjoy creating beautiful, simple and elegant things and always pay attention to details with a creative mind.
 
 ## 📈 Github Stats
 
