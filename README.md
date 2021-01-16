@@ -21,10 +21,6 @@ I am a CS student based in Morocco. Used to develop modern web applications unde
   <br/>
 </details>
 
-<br>
-<img src="https://i.pinimg.com/originals/cf/70/7a/cf707a7c672c59f85f251f42d12497dd.gif" alt="Look at the flowers" style="float: left;" width="800px">
-<br>
-
 ## 👨‍💻 Languages and Tools:
 
 ### Programming Languages
