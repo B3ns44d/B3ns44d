@@ -7,7 +7,8 @@ I am a CS student based in Morocco. Used to develop modern web applications unde
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br>
-  <img alt="B3ns44d's Github Stats" src="https://github-readme-stats.vercel.app/api?username=B3ns44d&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img alt="B3ns44d's Github Stats" src="https://github-readme-stats.vercel.app/api?username=B3ns44d&count_private=true&show_icons=true&theme=tokyonight" />
+  
 </details>
 <details> 
   <summary>💻 Most used languages</summary>
