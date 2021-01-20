@@ -4,6 +4,7 @@ I am a CS student based in Morocco. Used to develop modern web applications unde
 
 ## 📈 Github Stats
 
+
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br>
@@ -20,6 +21,11 @@ I am a CS student based in Morocco. Used to develop modern web applications unde
   <br/>
   <img alt="B3ns44d's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=b3ns44d&theme=tokyonight" />
   <br/>
+</details>
+<details> 
+  <summary>📈 Activity Graph</summary>
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=B3ns44d&theme=github" alt="B3ns44d's github activity graph"/>
 </details>
 
 ## 👨‍💻 Languages and Tools:
