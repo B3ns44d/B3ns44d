@@ -16,12 +16,12 @@ I am a CS student based in Morocco. Used to develop modern web applications unde
   <br/>
   <img alt="B3ns44d's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3ns44d&theme=tokyonight" />
 </details>
-<details> 
+<!-- <details> 
   <summary>⚡ Contribution Streak</summary>
   <br/>
   <img alt="B3ns44d's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=b3ns44d&theme=tokyonight" />
   <br/>
-</details>
+</details> -->
 <details> 
   <summary>📈 Activity Graph</summary>
   <br/>
