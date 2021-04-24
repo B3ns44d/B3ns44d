@@ -109,23 +109,9 @@ I am a CS student based in Morocco. Used to develop modern web applications unde
 
 
 <br><br>
+### 📩 Latest Blog Posts
 
-<img src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Anime_snaps/2.gif" alt="Naruto" style="float: left;" width="800px">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-# Connect with me<img src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Handshake.gif" height="32px">
-
-  <a href="https://www.linkedin.com/in/b3ns44d/">
-    <img align="left" alt="Abdessamad Bensaad | Linkedin" width="24px" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/b3ns44d">
-    <img align="left" alt="Abdessamad Bensaad | Twitter" width="26px" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/b3ns44d/">
-    <img align="left" alt="Abdessamad Bensaad | Instagram" width="24px" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:abdsamad23bnsaad@gmail.com">
-    <img align="left" alt="Abdessamad Bensaad | Gmail" width="26px" src="https://raw.githubusercontent.com/B3ns44d/B3ns44d/master/Assets/Gmail.svg" />
-  </a>
-
-<br><br>
 <br>
