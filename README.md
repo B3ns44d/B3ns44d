@@ -112,6 +112,11 @@ I am a CS student based in Morocco. Used to develop modern web applications unde
 ### 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to handle JSON on the command line](https://dev.to/b3ns44d/how-to-handle-json-on-the-command-line-2e68)
+- [5 ways to align HTML element horizontally and vertically](https://dev.to/b3ns44d/5-ways-to-align-html-element-horizontally-and-vertically-2fnc)
+- [Improving site responsiveness with CSS clamp() function](https://dev.to/b3ns44d/improving-site-responsiveness-with-css-clamp-function-3119)
+- [The semicolon in JavaScript / TypeScript: pros and cons](https://dev.to/b3ns44d/the-semicolon-in-javascript-typescript-pros-and-cons-8cl)
+- [Python File Basics](https://dev.to/b3ns44d/python-file-basics-2kdb)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
