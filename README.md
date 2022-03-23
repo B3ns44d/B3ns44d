@@ -28,29 +28,28 @@ I am a CS student based in Morocco. Used to develop modern web applications unde
   <img src="https://activity-graph.herokuapp.com/graph?username=B3ns44d&theme=github" alt="B3ns44d's github activity graph"/>
 </details>
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Main Languages and Tools:
 
 ### Programming Languages
 <div style="display: flex;justify-content: space-around;">
-<img alt="Badge" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Badge" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Badge" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
-<img alt="Badge" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img alt="Badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="Badge" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
 
-### Frameworks
+### Frameworks, Platforms and Libraries
 <div style="display: flex;justify-content: space-around;">
-<img alt="Badge" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-<img alt="Badge" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img alt="Badge" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-<img alt="Badge" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="Badge" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Badge" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Badge" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+<img alt="Badge" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="Badge" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="Badge" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Badge" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Badge" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
 
 ### Design
